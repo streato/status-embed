@@ -1,7 +1,7 @@
 (function(){
 
     var frame = document.createElement('iframe');
-    frame.src = 'https://42jclrzd34sd.statuspage.io/embed/frame';
+    frame.src = 'https://status-embed.streato.com';
     frame.style.position = 'fixed';
     frame.style.border = 'none';
     frame.style.boxShadow = '0 20px 32px -8px rgba(9,20,66,0.25)';
